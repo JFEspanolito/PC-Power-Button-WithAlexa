@@ -11,3 +11,6 @@ Sofware utilizados:
 - [Adafruit Dashboard](https://io.adafruit.com/)
 - [IFTTT](https://ifttt.com)
 - [Arduino IDE](https://www.arduino.cc/en/software)
+
+Datos extras:
+- 115200 Es la velocidad del monitor seria
