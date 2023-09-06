@@ -13,4 +13,4 @@ Sofware utilizados:
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
 Datos extras:
-- 115200 Es la velocidad del monitor seria
+- 115200 Es la velocidad del monitor serial
